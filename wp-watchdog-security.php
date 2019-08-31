@@ -5,7 +5,7 @@
  * Plugin URI: --
  * Description: The plugin enhanches the WordPress website's security
  * Author: Sergiu-Ludovic Szatmari
- * Author URI: https://www.businesshop.ro
+ * Author URI: --
  * Version: 1.1
  * Text Domain: wp-watchdog-security
  */
