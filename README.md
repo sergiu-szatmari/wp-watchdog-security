@@ -13,6 +13,9 @@ WordPress plugin that enhanches the website's security.
 
 3. The _plugin_ can be uploaded to the WordPress website normally, through the administration panel.
 
+## Demo
+
+![](demo.gif)
 
 ### Acknowledgments
 

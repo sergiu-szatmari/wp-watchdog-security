@@ -2,10 +2,10 @@
 
 /**
  * Plugin Name: WordPress Watchdog Security
- * Plugin URI: --
- * Description: The plugin enhanches the WordPress website's security
- * Author: Sergiu-Ludovic Szatmari
- * Author URI: https://www.businesshop.ro
+ * Plugin URI: https://github.com/sergiu-szatmari/wp-watchdog-security
+ * Description: The plugin enhanches the WordPress website's security.
+ * Author: Sergiu Szatmari
+ * Author URI: https://github.com/sergiu-szatmari
  * Version: 1.1
  * Text Domain: wp-watchdog-security
  */
