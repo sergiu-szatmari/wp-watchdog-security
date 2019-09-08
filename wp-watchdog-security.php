@@ -3,9 +3,15 @@
 /**
  * Plugin Name: WordPress Watchdog Security
  * Plugin URI: https://github.com/sergiu-szatmari/wp-watchdog-security
+<<<<<<< HEAD
  * Description: The plugin enhanches the WordPress website's security.
  * Author: Sergiu Szatmari
  * Author URI: https://github.com/sergiu-szatmari
+=======
+ * Description: The plugin enhanches the WordPress website's security
+ * Author: Sergiu-Ludovic Szatmari
+ * Author URI: --
+>>>>>>> 0c4a805c86a3b6289fe59f7f6fe5c06dcd0a6f04
  * Version: 1.1
  * Text Domain: wp-watchdog-security
  */
