@@ -3,7 +3,7 @@
 WordPress plugin that enhanches the website's security.
 
 <p align="center">
-<img width=250px src="https://www.gstatic.com/mobilesdk/180227_mobilesdk/storage_rules_zerostate.png">
+<img width=250px src="watchdog.png">
 </p>
 
 ## Instalation
