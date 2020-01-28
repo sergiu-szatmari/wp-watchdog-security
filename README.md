@@ -6,7 +6,7 @@ WordPress plugin that enhanches the website's security.
 <img width=250px src="watchdog.png">
 </p>
 
-## Instalation
+## Installation
 
 1. Use Git to download the plugin
     ```
